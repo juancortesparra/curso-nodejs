@@ -1,0 +1,5 @@
+Este es un archivo donde incluye
+
+varias lineas de codigo con algunos errores de typo
+pero funciona igual forma al momento de ejecutar en la 
+terminal.
