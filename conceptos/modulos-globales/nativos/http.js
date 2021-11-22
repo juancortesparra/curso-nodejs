@@ -17,9 +17,9 @@ function router(req, res) {
   }
 
   // res.writeHead(201, {'Content-type': 'text/plain'})
- // Escribir respuesta al usuario.
- //  res.write('Hola, estas usando un servidor de NodeJS');
- // res.end();
+// Escribir respuesta al usuario.
+//  res.write('Hola, estas usando un servidor de NodeJS');
+// res.end();
 }
 
 console.log('escuchando http en el puerto 3000');
